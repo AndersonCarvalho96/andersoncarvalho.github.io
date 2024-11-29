@@ -41,24 +41,7 @@ redirect_from:
 * **Plataformas e Serviços**: Microsoft 365, Power Apps, Power Automate, Power Lists
 * **Controle de Versão**: Git, GitHub, GitFlow
 * **Soft Skills**: Organização, Proatividade, Colaboração em Equipe
-<!-- 
-## Publicações
-======
-<ul>{% for post in site.publications reversed %}
-  {% include archive-single-cv.html %}
-{% endfor %}</ul> -->
 
-## Palestras
-======
-<ul>{% for post in site.talks reversed %}
-  {% include archive-single-talk-cv.html %}
-{% endfor %}</ul>
-
-## Ensino
-======
-<ul>{% for post in site.teaching reversed %}
-  {% include archive-single-cv.html %}
-{% endfor %}</ul>
 
 ## Serviços e Liderança
 ======
