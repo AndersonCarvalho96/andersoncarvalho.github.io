@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Sobre Mim
-
 Olá, sou Anderson, um desenvolvedor de sistemas apaixonado por tecnologia e sempre em busca de soluções inovadoras. Recentemente, me formei em Análise e Desenvolvimento de Sistemas pela FAETERJ-RIO, e ao longo da minha jornada, tive a oportunidade de contribuir significativamente para projetos na NAV Brasil, onde atuei como Estagiário de Desenvolvimento.
 
 Minhas experiências incluem o desenvolvimento de aplicativos internos, soluções de automação e melhorias de sistemas existentes. Durante meu estágio na NAV Brasil, desempenhei um papel crucial no desenvolvimento de aplicativos e soluções internas utilizando Power Apps, Power Automate, Microsoft Lists e Python. Colaborei com equipes para implementar melhorias nos sistemas existentes, criei documentação detalhada e forneci suporte técnico a outros departamentos.
