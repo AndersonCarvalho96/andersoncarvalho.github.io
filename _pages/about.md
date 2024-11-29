@@ -1,5 +1,5 @@
 ---
-permalink: /sobre/
+permalink: /
 title: "Sobre Mim"
 author_profile: true
 redirect_from: 
