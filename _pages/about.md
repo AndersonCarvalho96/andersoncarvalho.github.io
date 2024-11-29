@@ -20,4 +20,5 @@ Acredito fortemente no poder da colaboração em equipe para a entrega de result
 Além da parte técnica, sou motivado pela constante aprendizagem e estou em busca de sempre aprimorar minhas habilidades, como demonstrado pelos cursos que tenho realizado em Machine Learning e Lógica de Programação, entre outros.
 
 ##O que me motiva##
+
 Acredito que a tecnologia tem o poder de transformar a forma como vivemos e trabalhamos. No meu tempo livre, adoro explorar novos projetos, aprender novas ferramentas e participar de comunidades de desenvolvimento. Estou sempre disposto a contribuir com ideias inovadoras para melhorar processos e otimizar resultados.
