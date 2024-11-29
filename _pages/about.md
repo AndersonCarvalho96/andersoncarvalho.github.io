@@ -20,4 +20,4 @@ Além da parte técnica, sou motivado pela constante aprendizagem e estou em bus
 
 **O que me motiva**
 
-Acredito que a tecnologia tem o poder de transformar a forma como vivemos e trabalhamos. No meu tempo livre, adoro explorar novos projetos, aprender novas ferramentas e participar de comunidades de desenvolvimento. Estou sempre disposto a contribuir com ideias inovadoras para melhorar processos e otimizar resultados.
+Acredito que a tecnologia tem o poder de transformar a forma como vivemos e trabalhamos. No meu tempo livre, adoro explorar novos projetos e aprender novas ferramentas. Estou sempre disposto a contribuir com ideias inovadoras para melhorar processos e otimizar resultados.
