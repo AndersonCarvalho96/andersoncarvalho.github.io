@@ -14,7 +14,7 @@ name                     : &name "Anderson Carvalho"
 description              : &description "Analista e desenvolvedor de sistemas com experiência em  SQL, Python, C, Power Apps, Power Automate, Microsoft Lists. Sou proativo, colaborativo e dedicado a enfrentar desafios e contribuir para o sucesso de equipes e organizações.
 
 "
-url                      : "https://andersoncarvalho96.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : "https://andersoncarvalho.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "AndersonCarvalho96/andersoncarvalho96.github.io"
 
