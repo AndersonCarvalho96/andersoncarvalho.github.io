@@ -13,7 +13,7 @@ redirect_from:
 ======
 * **Tecnólogo em Análise e Desenvolvimento de Sistemas**, Faculdade de Educação Tecnológica do Estado do Rio de Janeiro Fernando Mota (FAETERJ-RIO), 2018 - 2024 (concluído)
 * **Curso de Python para Machine Learning e Ciência de Dados**, Didática Tech, 2023
-* **Database Programming with SQL **, Oracle Academy 2021
+* **Database Programming with SQL**, Oracle Academy 2021
 * **Fundamentos de Lógica de Programação**, Fundação Bradesco, 2020
 * **Governança de TI: Conceitos Básicos**, Fundação Bradesco, 2020
 * **Fundamentos da Gestão de TI**, Fundação Getúlio Vargas (FGV Online), 2021
@@ -27,9 +27,9 @@ redirect_from:
 * **2022-2023**: Estagiário de Desenvolvimento de Sistemas
   * NAV Brasil
   * Responsabilidades:
-- Desenvolvimento de soluções internas utilizando Power Apps, Power Automate, Microsoft Lists e Python. Colaboração com a equipe para identificar e implementar melhorias nos sistemas existentes.
-- Criação de documentações abrangentes para facilitar a compreensão das aplicações desenvolvidas.
-- Suporte técnico a outras equipes de TI, incluindo montagem de computadores e resolução de problemas de usuários.
+    - Desenvolvimento de soluções internas utilizando Power Apps, Power Automate, Microsoft Lists e Python. Colaboração com a equipe para identificar e implementar melhorias nos sistemas existentes.
+    - Criação de documentações abrangentes para facilitar a compreensão das aplicações desenvolvidas.
+    - Suporte técnico a outras equipes de TI, incluindo montagem de computadores e resolução de problemas de usuários.
   * Supervisor: Adriano Duarte Antero
 
 
@@ -46,7 +46,7 @@ redirect_from:
 ======
 <ul>{% for post in site.publications reversed %}
   {% include archive-single-cv.html %}
-{% endfor %}</ul>
+{% endfor %}</ul> -->
 
 ## Palestras
 ======
@@ -59,7 +59,7 @@ redirect_from:
 <ul>{% for post in site.teaching reversed %}
   {% include archive-single-cv.html %}
 {% endfor %}</ul>
--->
+
 ## Serviços e Liderança
 ======
 
