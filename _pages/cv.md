@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Carreira"
+permalink: /carreira/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,56 +9,63 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+## Formação Acadêmica
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Tecnólogo em Análise e Desenvolvimento de Sistemas**, Faculdade de Educação Tecnológica do Estado do Rio de Janeiro Fernando Mota (FAETERJ-RIO), 2018 - 2024 (concluído)
+* **Curso de Python para Machine Learning e Ciência de Dados**, Didática Tech, 2023
+* **Database Programming with SQL **, Oracle Academy 2021
+* **Fundamentos de Lógica de Programação**, Fundação Bradesco, 2020
+* **Governança de TI: Conceitos Básicos**, Fundação Bradesco, 2020
+* **Fundamentos da Gestão de TI**, Fundação Getúlio Vargas (FGV Online), 2021
+* **Inglês - Nível Básico-Intermediário**, Yes! Idiomas, 2013 - 2015
+* **Curso de Montagem e Manutenção**, Montreal Rio, 2012
+* **Curso de Informática Básica**, Montreal Rio, 2011
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Experiência Profissional
+======
+* **2022-2023**: Estagiário de Desenvolvimento de Sistemas
+  * NAV Brasil
+  * Responsabilidades:
+- Desenvolvimento de soluções internas utilizando Power Apps, Power Automate, Microsoft Lists e Python. Colaboração com a equipe para identificar e implementar melhorias nos sistemas existentes.
+- Criação de documentações abrangentes para facilitar a compreensão das aplicações desenvolvidas.
+- Suporte técnico a outras equipes de TI, incluindo montagem de computadores e resolução de problemas de usuários.
+  * Supervisor: Adriano Duarte Antero
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
+## Habilidades
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* **Programação**: C, Python, JavaScript, SQL, HTML5/CSS
+* **Ferramentas de Desenvolvimento**: VSCode, Eclipse, DEV C++, Notepad++
+* **Bancos de Dados**: PostgreSQL, MySQL, SQLite
+* **Plataformas e Serviços**: Microsoft 365, Power Apps, Power Automate, Power Lists
+* **Controle de Versão**: Git, GitHub, GitFlow
+* **Soft Skills**: Organização, Proatividade, Colaboração em Equipe
+<!-- 
+## Publicações
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+<ul>{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+
+## Palestras
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+<ul>{% for post in site.talks reversed %}
+  {% include archive-single-talk-cv.html %}
+{% endfor %}</ul>
+
+## Ensino
 ======
-* Currently signed in to 43 different slack teams
+<ul>{% for post in site.teaching reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+-->
+## Serviços e Liderança
+======
+
+* **Liderança de Equipe de Estagiários**: Embora tenha sido estagiário, assumi a liderança de nossa equipe em projetos específicos, coordenando as atividades, delegando tarefas e garantindo a entrega eficiente dos resultados.
+* **Atuação como Mentor de Estagiários**: Auxiliei novos membros da equipe de estagiários, orientando-os nas tarefas do dia a dia e compartilhando conhecimentos técnicos para o desenvolvimento dos projetos.
+* **Organização de reuniões de equipe**: Fui responsável por agendar e facilitar reuniões para discutir o progresso dos projetos, ajudando a garantir que as necessidades da equipe fossem atendidas e os objetivos alcançados.
+
+
+
