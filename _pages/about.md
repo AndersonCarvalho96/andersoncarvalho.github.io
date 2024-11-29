@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-#Sobre Mim#
+Sobre Mim
 
 Olá, sou Anderson, um desenvolvedor de sistemas apaixonado por tecnologia e sempre em busca de soluções inovadoras. Recentemente, me formei em Análise e Desenvolvimento de Sistemas pela FAETERJ-RIO, e ao longo da minha jornada, tive a oportunidade de contribuir significativamente para projetos na NAV Brasil, onde atuei como Estagiário de Desenvolvimento.
 
@@ -20,6 +20,6 @@ Acredito fortemente no poder da colaboração em equipe para a entrega de result
 
 Além da parte técnica, sou motivado pela constante aprendizagem e estou em busca de sempre aprimorar minhas habilidades, como demonstrado pelos cursos que tenho realizado em Machine Learning e Lógica de Programação, entre outros.
 
-##O que me motiva##
+O que me motiva
 
 Acredito que a tecnologia tem o poder de transformar a forma como vivemos e trabalhamos. No meu tempo livre, adoro explorar novos projetos, aprender novas ferramentas e participar de comunidades de desenvolvimento. Estou sempre disposto a contribuir com ideias inovadoras para melhorar processos e otimizar resultados.
