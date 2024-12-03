@@ -2,7 +2,7 @@
 title: "Projeto de TCC - Forja Épica de Aventuras"
 excerpt: "Plataforma digital que utiliza transcrição de fala para texto em tempo real para aprimorar a experiência dos jogadores de RPG."
 collection: portfolio
-image:/images/ProjetoTCC-Forja.png
+image: /images/ProjetoTCC-Forja.png
 ---
 
 ## Descrição  
