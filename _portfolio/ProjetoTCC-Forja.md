@@ -1,8 +1,7 @@
 ---
 title: "Projeto de TCC - Forja Épica de Aventuras"
-excerpt: "Plataforma digital que utiliza transcrição de fala para texto em tempo real para aprimorar a experiência dos jogadores de RPG."
+excerpt: "Plataforma digital que utiliza transcrição de fala para texto em tempo real para aprimorar a experiência dos jogadores de RPG.<br/><img src='/images/ProjetoTCC-Forja.png'>"
 collection: portfolio
-image: /images/ProjetoTCC-Forja.png
 ---
 
 ## Descrição  
@@ -27,6 +26,11 @@ Este projeto foi desenvolvido como parte do Trabalho de Conclusão de Curso (TCC
 
 ---
 
+## Vídeo de Apresentação da Solução
+O Vídeo de Apresentação da Solução está disponível no Youtube:
+[Youtube - Apresentação da Solução TCC ~ Forja Épica de Aventuras](https://www.youtube.com/watch?v=Yh1x_KAAX2E)
+
+---
 ## Código no GitHub  
 O código-fonte completo está disponível no repositório:  
 [GitHub - ProjetoTCC-Forja](https://github.com/AndersonCarvalho96/ProjetoTCC-Forja)
@@ -35,4 +39,4 @@ O código-fonte completo está disponível no repositório:
 
 ## PDF do TCC  
 Para mais detalhes, acesse o TCC completo:  
-[Baixar o PDF do TCC](https://github.com/AndersonCarvalho96/ProjetoTCC-Forja/blob/main/TCC%20Anderson%20Carvalho%20-%20FAETERJ-RIO.pdf)
+[Acessar o PDF do TCC](https://github.com/AndersonCarvalho96/ProjetoTCC-Forja/blob/main/TCC%20Anderson%20Carvalho%20-%20FAETERJ-RIO.pdf)
