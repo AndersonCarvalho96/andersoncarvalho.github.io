@@ -28,15 +28,15 @@ Este projeto foi desenvolvido como parte do Trabalho de Conclusão de Curso (TCC
 
 ## Vídeo de Apresentação da Solução
 O Vídeo de Apresentação da Solução está disponível no Youtube:
-[Youtube - Apresentação da Solução TCC ~ Forja Épica de Aventuras](https://www.youtube.com/watch?v=Yh1x_KAAX2E)
+[Youtube - Apresentação da Solução TCC ~ Forja Épica de Aventuras](https://www.youtube.com/watch?v=Yh1x_KAAX2E){:target="_blank"}
 
 ---
 ## Código no GitHub  
 O código-fonte completo está disponível no repositório:  
-[GitHub - ProjetoTCC-Forja](https://github.com/AndersonCarvalho96/ProjetoTCC-Forja)
+[GitHub - ProjetoTCC-Forja](https://github.com/AndersonCarvalho96/ProjetoTCC-Forja){:target="_blank"}
 
 ---
 
 ## PDF do TCC  
 Para mais detalhes, acesse o TCC completo:  
-[Acessar o PDF do TCC](https://github.com/AndersonCarvalho96/ProjetoTCC-Forja/blob/main/TCC%20Anderson%20Carvalho%20-%20FAETERJ-RIO.pdf)
+[Acessar o PDF do TCC](https://github.com/AndersonCarvalho96/ProjetoTCC-Forja/blob/main/TCC%20Anderson%20Carvalho%20-%20FAETERJ-RIO.pdf){:target="_blank"}
