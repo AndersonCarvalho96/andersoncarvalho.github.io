@@ -1,9 +1,8 @@
 ---
-title: "ProjetoTCC-Forja"
+title: "Projeto de TCC - Forja Épica de Aventuras"
 excerpt: "Plataforma digital que utiliza transcrição de fala para texto em tempo real para aprimorar a experiência dos jogadores de RPG."
 collection: portfolio
-image: <img src='/images/ProjetoTCC-Forja.png'>
-link: https://github.com/AndersonCarvalho96/ProjetoTCC-Forja
+image:/images/ProjetoTCC-Forja.png
 ---
 
 ## Descrição  
